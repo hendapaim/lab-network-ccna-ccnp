@@ -16,4 +16,6 @@
 ✔️ Configurar e gerenciar VLANs e protocolos de agregação de links (LACP e PagP).
 Este laboratório oferece uma abordagem prática para consolidar os conhecimentos necessários para as provas de certificação e para o dia a dia de trabalho em redes complexas.
 
+### Topologia
+![](./topologia.jpg)
 
